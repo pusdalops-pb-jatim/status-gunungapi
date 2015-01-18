@@ -10,7 +10,7 @@ if (!$fp) {
   { return $status[1];}
 }
 
-$status =  GetServerStatus('http://google.com',80);
+$status =  GetServerStatus('http://pvmbg.bgl.esdm.go.id',80);
 
 //echo $status."<br>";
 
